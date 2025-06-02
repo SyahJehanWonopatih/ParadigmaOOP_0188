@@ -23,3 +23,10 @@ class KapalLawud :public seseorang {
         }
 };
 
+int main() {
+    seseorang* obyek;
+    slamet a;
+    KapalLawud b;
+
+    
+}

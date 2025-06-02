@@ -28,5 +28,9 @@ int main() {
     slamet a;
     KapalLawud b;
 
+    obyek = &a;
+    obyek->pesan(); 
+    obyek = &b;
+    obyek->pesan();
     
 }

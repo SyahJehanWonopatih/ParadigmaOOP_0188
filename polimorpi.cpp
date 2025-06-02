@@ -16,3 +16,10 @@ class slamet :public seseorang {
         }
 };
 
+class KapalLawud :public seseorang {
+    public:
+        void pesan() {
+            cout << "Pesan dari Kapal Lawud" << endl;
+        }
+};
+

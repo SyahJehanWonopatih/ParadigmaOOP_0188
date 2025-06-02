@@ -9,3 +9,10 @@ class seseorang {
         }
 };
 
+class slamet :public seseorang {
+    public:
+        void pesan() {
+            cout << "Pesan dari Slamet" << endl;
+        }
+};
+
